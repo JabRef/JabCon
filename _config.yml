@@ -1,12 +1,10 @@
 # Site settings
-title: Arctic Fox
+title: JabCon
 email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
-baseurl: "/arctic-fox-theme" # the subpath of your site, e.g. /blog/
-url: "http://diezcami.github.io" # the base hostname & protocol for your site
-twitter_username: username
-github_username: username
+description: JabCon conference site
+baseurl: "/JabCon"
+url: "http://jabref.github.io/"
+github_username: koppor
 
 # Build settings
 markdown: redcarpet
