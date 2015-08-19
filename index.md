@@ -1,5 +1,6 @@
 ---
 title: JabCon - discussing the future of bibliography management
+layout: default
 ---
 
 ### JabCon
