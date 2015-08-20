@@ -11,7 +11,7 @@ JabCon - discussing the future of bibliography management
 * [DSG](http://www.infosys.tuwien.ac.at/), Vienna University of Technology, Austria
 * Participation is free of charge
 * Registration deadline: December 17, 2015
-* Organizers: @koppor, @simonharrer, @stefan-kolb, @lenhard
+* Organizers: [@koppor], [@simonharrer], [@stefan-kolb], [@lenhard]
 * Local organizer: [Stefan Schulte](http://www.infosys.tuwien.ac.at/staff/sschulte/)
 * Co-located with [ZEUS 2016](http://zeus-workshop.eu/)
 
@@ -23,3 +23,7 @@ The sessions will be divided in talks, workshops, and hacking sessions.
 
 The conference is in **planning** state. We are currently fixing the details.
 
+  [@koppor]: https://github.com/koppor/
+  [@simonharrer]: https://github.com/simonharrer/
+  [@stefan-kolb]: https://github.com/stefan-kolb/
+  [@lenhard]: https://github.com/lenhard/
