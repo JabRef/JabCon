@@ -4,8 +4,7 @@ layout: default
 ---
 
 ### JabCon
-
-JabCon - discussing the future of bibliography management
+Discussing the future of bibliography management
 
 * January 29, 2016 (13:00) to January 31, 2016 (15:00)
 * [DSG](http://www.infosys.tuwien.ac.at/), Vienna University of Technology, Austria
