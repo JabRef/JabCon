@@ -8,7 +8,7 @@ Discussing the future of bibliography management
 
 * January 25, 2016 (13:00) to January 26, 2016 (18:00)
 * [DSG](http://www.infosys.tuwien.ac.at/), [TU Wien](https://www.tuwien.ac.at/), [Vienna](https://www.wien.gv.at/english/culture-history/tourism/index.html), [Austria](http://www.austria.info/us)
-* Participation is free of charge
+* Participation is **free of charge**
 * Registration deadline: Monday, November 30, 2015
 * Organizers: [@koppor], [@simonharrer], [@stefan-kolb], [@lenhard]
 * Local organizer: [Stefan Schulte](http://www.infosys.tuwien.ac.at/staff/sschulte/)
