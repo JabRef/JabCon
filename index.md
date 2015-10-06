@@ -12,7 +12,7 @@ Discussing the future of bibliography management
 * Registration deadline: Monday, November 30, 2015
 * Organizers: [@koppor], [@simonharrer], [@stefan-kolb], [@lenhard]
 * Local organizer: [Stefan Schulte](http://www.infosys.tuwien.ac.at/staff/sschulte/)
-* Co-located with [ZEUS 2016](http://zeus-workshop.eu/)
+* Co-located with [ZEUS 2016](http://www.infosys.tuwien.ac.at/zeus2016/)
 
 The conference is intended for users and developers of [JabRef](https://github.com/JabRef/jabref).
 We want to strengthen the network between users, between users and developers, and between the developers.
@@ -48,7 +48,7 @@ Any comments, questions, and feedback welcome.
 * JabCon Closing Event
 
 ### Sponsors
-* [donations](https://www.paypal.com/cgi-bin/webscr?item_name=JabRef+Bibliography+Manager&cmd=_donations&lc=US&currency_code=EUR&business=jabrefmail%40gmail.com)
+* [donations](https://github.com/JabRef/jabref/wiki/Donations)
 
   [@koppor]: https://github.com/koppor/
   [@simonharrer]: https://github.com/simonharrer/
