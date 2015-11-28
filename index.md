@@ -6,21 +6,20 @@ layout: default
 ## JabCon
 Discussing the future of bibliography management
 
+* Registration deadline: Monday January 4, 2016
 * January 25, 2016 (13:00) to January 26, 2016 (18:00)
 * [DSG](http://www.infosys.tuwien.ac.at/), [TU Wien](https://www.tuwien.ac.at/), [Vienna](https://www.wien.gv.at/english/culture-history/tourism/index.html), [Austria](http://www.austria.info/us)
 * Participation is **free of charge**
-* Registration deadline: Monday, November 30, 2015
 * Organizers: [@koppor], [@simonharrer], [@stefan-kolb], [@lenhard]
 * Local organizer: [Stefan Schulte](http://www.infosys.tuwien.ac.at/staff/sschulte/)
 * Co-located with [ZEUS 2016](http://www.infosys.tuwien.ac.at/zeus2016/)
 
-The conference is intended for users and developers of [JabRef](https://github.com/JabRef/jabref).
+The conference is intended for users and developers of [JabRef](http://www.jabref.org).
 We want to strengthen the network between users, between users and developers, and between the developers.
 The result of the conference should be new ideas for JabRef, fixed bugs, and newly implemented features.
 
-The sessions will be subdivided into talks, workshops, and hacking sessions.
+The sessions are subdivided into talks, workshops, and hacking sessions.
 
-The conference is in **planning** state. We are currently fixing the details.
 Any comments, questions, and feedback welcome.
 
 ### Session Schedule
