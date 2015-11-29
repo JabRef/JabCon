@@ -48,6 +48,7 @@ Any comments, questions, and feedback welcome.
 
 ### Sponsors
 * [donations](https://github.com/JabRef/jabref/wiki/Donations)
+* **Contact us if your logo should appear here**
 
   [@koppor]: https://github.com/koppor/
   [@simonharrer]: https://github.com/simonharrer/
