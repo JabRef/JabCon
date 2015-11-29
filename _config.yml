@@ -1,10 +1,8 @@
 # Site settings
 title: JabCon
-email: 
 description: JabCon conference site
-baseurl: "/JabCon"
-url: "http://jabref.github.io/"
-github_username: koppor
+url: "http://jabcon.jabref.org/"
+github_username: JabRef
 
 # Build settings
 markdown: redcarpet

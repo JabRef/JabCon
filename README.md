@@ -1,7 +1,7 @@
-This repository contains the source of the [JabCon homepage](http://jabref.github.io/JabCon/).
+This repository contains the source of the [JabCon homepage](http://jabcon.jabref.org/).
 Feel free to improve the page or ask a public questions using the [issue tracker](https://github.com/JabRef/JabCon/issues).
 
-Execute `gem install bundler`, `bundle install`, and `bundle exec jekyll serve` to serve this page locally at http://localhost:4000/JabCon/.
+Execute `gem install bundler`, `bundle install`, and `bundle exec jekyll serve --baseurl ''` to serve this page locally at http://localhost:4000/.
 Source: https://help.github.com/articles/using-jekyll-with-pages/#installing-jekyll
 Note that browsing the pages does not work locally before Jekyll 3.0, because [Jekyll 2.x cannot deal with URLs indirectly pointing to .html](https://github.com/jekyll/jekyll/pull/3452).
 
