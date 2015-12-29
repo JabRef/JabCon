@@ -35,7 +35,7 @@ Any comments, questions, and feedback welcome.
     * Planning (16:00 to 16:30)
     * Hacking in Groups (16:30 to 19:30)
     * Roundup (19:30 to 20:00)
-* Dinner at [Fliglmüller](http://www.figlmueller.at/) (21:00 - open end)
+* Dinner at [Figlmüller](http://www.figlmueller.at/) (21:00 - open end)
 
 #### January 26, 2016
 * Hacking Session (10:00 to 18:00)
