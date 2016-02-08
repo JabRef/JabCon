@@ -25,6 +25,7 @@ Any comments, questions, and feedback welcome.
 ### Session Schedule
 
 #### January 25, 2016
+* On-site Preparation Work (10:000 to 12:00)
 * Talks and Open Discussion (13:00 to 15:00)
     * Opening (13:00 to 13:15)
     * Changes since v2.11 (13:15 to 13:45)
