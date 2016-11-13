@@ -5,4 +5,4 @@ layout: default
 
 ## Travel and Accommodation
 
-Please visit the [Venue & Accommodation page of ZEUS](http://www.infosys.tuwien.ac.at/zeus2016/venue.html)
+Please visit the [Venue & Accommodation page of ZEUS](http://mashup.inf.usi.ch/zeus2017/#venue)

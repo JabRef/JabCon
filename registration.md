@@ -7,11 +7,11 @@ layout: registration
 
 
 Participation is free of charge, but participants have to pay for travel and accommodation.
-Since there are nearly no [Donations](https://github.com/JabRef/jabref/wiki/Donations), expenses for coffee, snacks, lunch, and the workshop dinner (incl. drinks) have to be covered by the participants, too.
+Since there are nearly no [Donations](https://donations.jabref.org), expenses for lunch and the workshop dinner (incl. drinks) have to be covered by the participants, too.
 
 To register for Jabcon, please fill in the following form.
 
-<form action="MAILTO:zeus@infosys.tuwien.ac.at?subject=Registration%20for%20JabCon%202016" method="post" enctype="text/plain" class="form-horizontal">
+<form action="MAILTO:jabrefmail+jabcon@gmail.com?subject=Registration%20for%20JabCon%202017" method="post" enctype="text/plain" class="form-horizontal">
   <div class="form-group">
     <label for="name" class="col-sm-2 control-label">Name</label>
     <div class="col-sm-10">

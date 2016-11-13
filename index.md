@@ -4,17 +4,16 @@ layout: default
 ---
 
 ## JabCon
-Discussing the future of bibliography management
+Discussing and implementing the future of bibliography management
 
-* Registration deadline: Monday January 4, 2016
-* January 25, 2016 (13:00) to January 26, 2016 (18:00)
-* [DSG](http://www.infosys.tuwien.ac.at/), [TU Wien](https://www.tuwien.ac.at/), [Vienna](https://www.wien.gv.at/english/culture-history/tourism/index.html), [Austria](http://www.austria.info/us)
+* Registration deadline: Sunday, February 5, 2017
+* Wednesday, February 15, 2017 (13:00) to Thursday, February 16, 2017 (18:00)
+* [Architecture, Design and Web Information Systems Engineering group](http://design.inf.usi.ch/), [USI Lugano](http://www.inf.usi.ch/), [Lugano](http://luganotourism.ch/en/716/tourist-information.aspx), Swiss
 * Participation is **free of charge**
-* Organizers: [@koppor], [@simonharrer], [@stefan-kolb], [@lenhard]
-* Local organizer: [Stefan Schulte](http://www.infosys.tuwien.ac.at/staff/sschulte/)
-* Co-located with [ZEUS 2016](http://www.infosys.tuwien.ac.at/zeus2016/)
+* Organizers: [@koppor], [@stefan-kolb], [@lenhard]
+* Co-located with [ZEUS 2017](http://mashup.inf.usi.ch/zeus2017/)
 
-The conference is intended for users and developers of [JabRef](http://www.jabref.org).
+The conference is intended for users and developers of [JabRef](https://www.jabref.org).
 We want to strengthen the network between users, between users and developers, and between the developers.
 The result of the conference should be new ideas for JabRef, fixed bugs, and newly implemented features.
 
@@ -22,13 +21,13 @@ The sessions are subdivided into talks, workshops, and hacking sessions.
 
 Any comments, questions, and feedback welcome.
 
-### Session Schedule
+### Preliminary Session Schedule
 
-#### January 25, 2016
+#### February 15, 2017
 * On-site Preparation Work (10:000 to 12:00)
 * Talks and Open Discussion (13:00 to 15:00)
     * Opening (13:00 to 13:15)
-    * Changes since v2.11 (13:15 to 13:45)
+    * Changes since v3.0 (13:15 to 13:45)
     * Future of JabRef (13:45 to 15:00, open discussion)
 * Break (15:00 to 15:30)
 * Hacking Session (15:30 to 20:00)
@@ -36,9 +35,9 @@ Any comments, questions, and feedback welcome.
     * Planning (16:00 to 16:30)
     * Hacking in Groups (16:30 to 19:30)
     * Roundup (19:30 to 20:00)
-* Dinner at [Figlmüller](http://www.figlmueller.at/) (21:00 - open end)
+* Dinner (21:00 - open end)
 
-#### January 26, 2016
+#### February 16, 2017
 * Hacking Session (10:00 to 18:00)
     * Planning (10:00 to 10:15)
     * Hacking in Groups (10:15 to 12:30)
@@ -48,10 +47,9 @@ Any comments, questions, and feedback welcome.
 * JabCon Closing Event
 
 ### Sponsors
-* [donations](https://github.com/JabRef/jabref/wiki/Donations)
+* [donations](https://donations.jabref.org)
 * **Contact us if your logo should appear here**
 
   [@koppor]: https://github.com/koppor/
-  [@simonharrer]: https://github.com/simonharrer/
   [@stefan-kolb]: https://github.com/stefan-kolb/
   [@lenhard]: https://github.com/lenhard/
