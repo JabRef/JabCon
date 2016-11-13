@@ -1,12 +1,12 @@
 # Site settings
 title: JabCon
 description: JabCon conference site
-url: "http://jabcon.jabref.org/"
+url: "https://jabcon.jabref.org/"
 github_username: JabRef
 
-# Build settings
-markdown: redcarpet
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
