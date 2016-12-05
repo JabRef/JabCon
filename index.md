@@ -48,6 +48,7 @@ Any comments, questions, and feedback welcome.
 
 ### Sponsors
 * [donations](https://donations.jabref.org)
+<img src="https://www.kau.se/themes/custom/kau16/images/logotype.png" width="96">
 * **Contact us if your logo should appear here**
 
   [@koppor]: https://github.com/koppor/
