@@ -49,10 +49,10 @@ Any comments, questions, and feedback welcome.
 ### Sponsors
 * [donations](https://donations.jabref.org)
 
-<img src="https://www.kau.se/themes/custom/kau16/images/logotype.png" height="192">
-<img src="http://www.uni-stuttgart.de/more/corporate_design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg" style=" width: 50%">
-<img src="http://www.press.usi.ch/logo-usi-67540.gif" height="192">
-<img src="https://upload.wikimedia.org/wikipedia/de/1/1f/Otto-Friedrich-Universit%C3%A4t_Bamberg_logo.svg" height="192">
+<img src="https://www.kau.se/themes/custom/kau16/images/logotype.png" style="width: 20%">
+<img src="http://www.uni-stuttgart.de/more/corporate_design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg" style="width: 50%">
+<img src="http://www.press.usi.ch/en/corporate-design/logo-info-en-67541.gif">
+<img src="https://upload.wikimedia.org/wikipedia/de/1/1f/Otto-Friedrich-Universit%C3%A4t_Bamberg_logo.svg" height="192" style="padding-left: 50px;">
 
 * **Contact us if your logo should appear here**
 
