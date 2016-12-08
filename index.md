@@ -50,7 +50,7 @@ Any comments, questions, and feedback welcome.
 * [donations](https://donations.jabref.org)
 
 <img src="https://www.kau.se/themes/custom/kau16/images/logotype.png" height="192">
-<img src="http://www.irs.uni-stuttgart.de/downloads/Logos/logos_uni_stuttgart/international/Uni-Logo_int.jpg" height="192">
+<img src="http://www.uni-stuttgart.de/more/corporate_design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg" style=" width: 50%">
 <img src="http://www.press.usi.ch/logo-usi-67540.gif" height="192">
 <img src="https://upload.wikimedia.org/wikipedia/de/1/1f/Otto-Friedrich-Universit%C3%A4t_Bamberg_logo.svg" height="192">
 
