@@ -7,7 +7,7 @@ layout: default
 Discussing and implementing the future of bibliography management
 
 * Registration deadline: Sunday, February 5, 2017
-* Wednesday, February 15, 2017 (13:00) to Thursday, February 16, 2017 (18:00)
+* Wednesday, February 15, 2017 (13:00) to Friday, February 17, 2017 (12:00)
 * [Architecture, Design and Web Information Systems Engineering group](http://design.inf.usi.ch/), [USI Lugano](http://www.inf.usi.ch/), [Lugano](http://luganotourism.ch/en/716/tourist-information.aspx), Swiss
 * Participation is **free of charge**
 * Organizers: [@koppor], [@stefan-kolb], [@lenhard]
@@ -42,9 +42,12 @@ Any comments, questions, and feedback welcome.
     * Planning (10:00 to 10:15)
     * Hacking in Groups (10:15 to 12:30)
     * Lunch (12:30 to 13:30)
-    * Hacking in Groups (13:30 to 17:00)
+    * Hacking in Groups (13:30 to 18:00)
     * Roundup (17:00 to 18:00)
-* JabCon Closing Event
+
+#### February 17, 2017
+* Release planning, next steps (10:00 to 11:30)
+* JabCon Closing Event (11:30 to 12:00)
 
 ### Sponsors
 * [donations](https://donations.jabref.org)
