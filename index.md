@@ -21,6 +21,11 @@ The sessions are subdivided into talks, workshops, and hacking sessions.
 
 Any comments, questions, and feedback welcome.
 
+### Participating via Skype
+
+In case you want to start coding with JabRef, please contact us via <jabrefmail+jabcon@gmail.com>.
+If you are a user, please also let us know whether you want to discuss something via voice instead of electronically via <jabrefmail+jabcon@gmail.com>.
+
 ### Preliminary Session Schedule
 
 #### February 15, 2017
