@@ -6,12 +6,12 @@ layout: default
 ## JabCon
 Discussing and implementing the future of bibliography management
 
-* Registration deadline: Sunday, February 5, 2017
-* Wednesday, February 15, 2017 (13:00) to Friday, February 17, 2017 (12:00)
-* [Architecture, Design and Web Information Systems Engineering group](http://design.inf.usi.ch/), [USI Lugano](http://www.inf.usi.ch/), [Lugano](http://luganotourism.ch/en/716/tourist-information.aspx), Swiss
+* Registration deadline: Sunday, January 30, 2018
+* Tuesday, February 6, 2018 (13:00) to Wednesday, February 7, 2017 (12:00)
+* [SAP SE Dresden](https://zeus2018.org/venue/), Dresden, Germany
 * Participation is **free of charge**
 * Organizers: [@koppor], [@stefan-kolb], [@lenhard]
-* Co-located with [ZEUS 2017](http://mashup.inf.usi.ch/zeus2017/)
+* Co-located with [ZEUS 2018](https://zeus2018.org/)
 
 The conference is intended for users and developers of [JabRef](https://www.jabref.org).
 We want to strengthen the network between users, between users and developers, and between the developers.
@@ -28,7 +28,7 @@ If you are a user, please also let us know whether you want to discuss something
 
 ### Preliminary Session Schedule
 
-#### February 15, 2017
+#### February 6, 2018
 * On-site Preparation Work (10:000 to 12:00)
 * Talks and Open Discussion (13:00 to 15:00)
     * Opening (13:00 to 13:15)
@@ -42,15 +42,7 @@ If you are a user, please also let us know whether you want to discuss something
     * Roundup (19:30 to 20:00)
 * Dinner (21:00 - open end)
 
-#### February 16, 2017
-* Hacking Session (10:00 to 18:00)
-    * Planning (10:00 to 10:15)
-    * Hacking in Groups (10:15 to 12:30)
-    * Lunch (12:30 to 13:30)
-    * Hacking in Groups (13:30 to 18:00)
-    * Roundup (17:00 to 18:00)
-
-#### February 17, 2017
+#### February 7, 2018
 * Release planning, next steps (10:00 to 11:30)
 * JabCon Closing Event (11:30 to 12:00)
 
