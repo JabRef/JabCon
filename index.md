@@ -50,7 +50,7 @@ If you are a user, please also let us know whether you want to discuss something
 * [donations](https://donations.jabref.org)
 
 <img src="https://www.kau.se/themes/custom/kau16/images/logotype.png" style="width: 20%">
-<img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg?__scale=w:100,h:10,q:10,t:3">
+<img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/de/1/1f/Otto-Friedrich-Universit%C3%A4t_Bamberg_logo.svg" style="padding-left: 50px; width: 100px;">
 
 * **Contact us if your logo should appear here**
