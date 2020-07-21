@@ -7,7 +7,7 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, August 23, 2019 (16:00) to Sunday, August 25, 2019 (16:00)
+* Tuesday, September 1, 2020 (10:00) to Wednesday, September 2, 2020 (22:00)
 * [Maichingen](https://en.wikipedia.org/wiki/Maichingen), Germany
 * Participation is **free of charge**
 * Organizers: [@koppor]
