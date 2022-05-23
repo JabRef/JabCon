@@ -7,7 +7,7 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Tuesday, August 31, 2021 (10:00) to Wednesday, September 1, 2020 (22:00)
+* Friday, September 2, 2022 (15:00) to Monday, September 5, 2022 (15:00)
 * [Maichingen](https://en.wikipedia.org/wiki/Maichingen), Germany
 * Participation is **free of charge**
 * Organizers: JabRef e.V.
