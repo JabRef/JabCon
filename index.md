@@ -7,8 +7,8 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, September 2, 2022 (15:00) to Monday, September 5, 2022 (15:00)
-* [Maichingen](https://en.wikipedia.org/wiki/Maichingen), Germany
+* Friday, September 1, 2023 (15:00) to Monday, September 4, 2022 (15:00)
+* [Paderborn](https://en.wikipedia.org/wiki/Paderborn), Germany
 * Participation is **free of charge**
 * Organizers: JabRef e.V.
 
