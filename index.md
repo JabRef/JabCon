@@ -7,10 +7,11 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, September 1, 2023 (15:00) to Monday, September 4, 2022 (15:00)
+* Friday, September 1, 2023 (15:00) to Monday, September 4, 2023 (15:00)
 * [Paderborn](https://en.wikipedia.org/wiki/Paderborn), Germany
 * Participation is **free of charge**
 * Organizers: JabRef e.V.
+* Accomodation: At the location itself, there is no accomodation possible, however, there are affordable Hotels nearby.
 
 The conference is intended for users and developers of [JabRef](https://www.jabref.org).
 We want to strengthen the network between users, between users and developers, and between the developers.
