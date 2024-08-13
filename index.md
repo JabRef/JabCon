@@ -7,8 +7,8 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, September 1, 2023 (15:00) to Monday, September 4, 2023 (15:00)
-* [Paderborn](https://en.wikipedia.org/wiki/Paderborn), Germany
+* Friday, September 6, 2024 (15:30) to Monday, September 9, 2024 (13:30)
+* [Zwiesel](https://www.zwiesel.de/), Germany
 * Participation is **free of charge**
 * Organizers: JabRef e.V.
 * Accomodation: At the location itself, there is no accomodation possible, however, there are affordable Hotels nearby.
