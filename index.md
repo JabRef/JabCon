@@ -21,6 +21,8 @@ The sessions are subdivided into talks, workshops, and hacking sessions.
 
 Any comments, questions, and feedback welcome.
 
+Read more at our [blog posts](https://blog.jabref.org/tags/jabcon/).
+
 ### Sponsors
 
 * [donations](https://donations.jabref.org)
