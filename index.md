@@ -23,8 +23,9 @@ Any comments, questions, and feedback welcome.
 
 Read more at our [blog posts](https://blog.jabref.org/tags/jabcon/).
 
-### Sponsors
+### Supporters
 
+* [JabRef e.V.](https://verein.jabref.org/)
 * [donations](https://donations.jabref.org)
 * **Contact us if your logo should appear here**
 
