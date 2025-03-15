@@ -7,7 +7,7 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, September 6, 2024 (15:30) to Monday, September 9, 2024 (13:30)
+* Friday, September 12, 2025 (12:00) to Monday, September 15, 2025 (12:00)
 * [Zwiesel](https://www.zwiesel.de/), Germany
 * Participation is **free of charge**
 * Organizers: JabRef e.V.
