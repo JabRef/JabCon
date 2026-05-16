@@ -7,8 +7,9 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, September 12, 2025 (12:00) to Monday, September 15, 2025 (12:00)
-* [Zwiesel](https://www.zwiesel.de/), Germany
+* Friday, September 4, 2026 (12:00) to Monday, September 7, 2026 (12:00)
+* Location: JabRef e.V., Josef-Lanner-Str. 9
+71069, [Sindelfingen](https://www.sindelfingen.de/startseite), Germany
 * Participation is **free of charge**
 * Organizers: JabRef e.V.
 * Accomodation: At the location itself, there is no accomodation possible, however, there are affordable Hotels nearby.
