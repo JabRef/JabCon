@@ -7,7 +7,7 @@ layout: default
 
 Discussing and implementing the future of bibliography management
 
-* Friday, September 4, 2026 (12:00) to Monday, September 7, 2026 (12:00)
+* Friday, September 4, 2026 (12:00) to Thursday, September 10, 2026 (19:00)
 * Location: JabRef e.V., Josef-Lanner-Str. 9
 71069, [Sindelfingen](https://www.sindelfingen.de/startseite), Germany
 * Participation is **free of charge**
